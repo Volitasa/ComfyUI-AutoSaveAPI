@@ -20,7 +20,7 @@ External applications (such as mobile apps, bots, or custom backend services) re
 Navigate to your ComfyUI `custom_nodes` folder and clone this repository:
 ```bash
 cd ComfyUI/custom_nodes
-git clone [https://github.com/YOUR_GITHUB_ID/ComfyUI-AutoSaveAPI.git](https://github.com/YOUR_GITHUB_ID/ComfyUI-AutoSaveAPI.git)
+git clone https://github.com/Volitasa/ComfyUI-AutoSaveAPI.git
 ```
 Restart ComfyUI and clear your browser cache (`Ctrl+F5` or `Cmd+Shift+R`).
 
@@ -50,7 +50,7 @@ Restart ComfyUI and clear your browser cache (`Ctrl+F5` or `Cmd+Shift+R`).
 进入 ComfyUI 的 `custom_nodes` 目录，克隆本仓库：
 ```bash
 cd ComfyUI/custom_nodes
-git clone [https://github.com/YOUR_GITHUB_ID/ComfyUI-AutoSaveAPI.git](https://github.com/YOUR_GITHUB_ID/ComfyUI-AutoSaveAPI.git)
+git clone https://github.com/Volitasa/ComfyUI-AutoSaveAPI.git
 ```
 重启 ComfyUI，并在浏览器中强制刷新页面（`Ctrl+F5` 或 `Cmd+Shift+R`）以加载最新的前端脚本。
 
