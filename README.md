@@ -28,7 +28,7 @@ Restart ComfyUI and clear your browser cache (`Ctrl+F5` or `Cmd+Shift+R`).
 1. Open ComfyUI and build your workflow.
 2. Ensure you have **"Enable Dev mode Options"** checked in settings (required for API format generation).
 3. Click the default **Save** button in the menu.
-4. Check your server's `ComfyUI/user/default/workflows/` directory. You will find both `your_workflow.json` and `your_workflow_api.json` ready for external API calls.
+4. Check your server's `workflows/` directory. You will find both `your_workflow.json` and `your_workflow_api.json` ready for external API calls.
 
 ---
 
@@ -58,7 +58,7 @@ git clone https://github.com/Volitasa/ComfyUI-AutoSaveAPI.git
 1. 在 ComfyUI 中正常搭建工作流。
 2. 确保在设置面板（齿轮图标）中已勾选开启开发者模式（**Enable Dev mode Options**），这是生成 API 格式的前提。
 3. 点击菜单中原生的 **Save** 保存按钮。
-4. 检查服务端的 `ComfyUI/user/default/workflows/` 目录，相应的 `工作流.json` 和 `工作流_api.json` 已同步生成，可直接供外部程序读取和调用。
+4. 检查服务端的 `workflows/` 目录，相应的 `工作流.json` 和 `工作流_api.json` 已同步生成，可直接供外部程序读取和调用。
 
 ---
 **License**
